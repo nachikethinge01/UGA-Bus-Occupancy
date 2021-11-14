@@ -15,10 +15,13 @@ Version 2.5:
 Version 3.0:
     1. Deploy the app to web
 
-Version 4.0 [Final Product]:
+Version 4.0:
     1. Make Apple Shortcuts to instantly access the web page
     2. Add a text parameter to the apple shortcuts for it to take input on the app and instant output on the web page
 
+Version 5.0[Final Product]:
+    1. Merge with Dining Status program
+    
 Later Versions:
     1. Bug Fixes
     2. Maintainance
