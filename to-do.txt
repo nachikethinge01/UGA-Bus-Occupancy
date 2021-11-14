@@ -1,0 +1,25 @@
+Version 1.0:
+    1. Scrape the data and complete coding [COMPLETE] 
+    2. Make a GUI interface for the code [COMPLETE] 
+
+Version 1.5:
+    1. Add all UGA busses to the program
+    2. Improve error handling messages
+
+Version 2.0:
+    1. Add location as an factor to get nearest bus approaching
+    
+Version 2.5:
+    1. Get user's location automatically and print the bus occupancy of the nearest busses to that location
+
+Version 3.0:
+    1. Deploy the app to web
+
+Version 4.0 [Final Product]:
+    1. Make Apple Shortcuts to instantly access the web page
+    2. Add a text parameter to the apple shortcuts for it to take input on the app and instant output on the web page
+
+Later Versions:
+    1. Bug Fixes
+    2. Maintainance
+    3. Quality Improvements
