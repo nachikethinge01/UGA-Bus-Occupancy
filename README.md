@@ -13,6 +13,7 @@ This project tracks the occupancy of each UGA bus that is active.
 This is just the first version of the app. It leaves me with endless possibilities of features to be added and improved.
 
 These are the features coming soon:
+
   Version 1.5:
     Add all UGA busses to the program
 
