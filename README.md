@@ -2,11 +2,13 @@
 This project tracks the occupancy of each UGA bus that is active.
 
 ### Asks the user for the input
-<img width="310" alt="Screen Shot 2021-11-14 at 5 04 06 PM" src="https://user-images.githubusercontent.com/55408263/141700388-a0a21d6f-8bd5-4afc-a4cf-30175a405e37.png">
+
+<img width="306" alt="Screen Shot 2021-11-15 at 11 30 52 AM" src="https://user-images.githubusercontent.com/55408263/141818510-f748a6ac-30c6-4181-a03b-b549bbc0e815.png">
 
 
 ### Outputs the occupancy for each bus that is active
-<img width="272" alt="Screen Shot 2021-11-14 at 5 04 35 PM" src="https://user-images.githubusercontent.com/55408263/141700412-d12cd67e-6960-4878-b408-7bd1712df437.png">
+
+<img width="288" alt="Screen Shot 2021-11-15 at 11 31 15 AM" src="https://user-images.githubusercontent.com/55408263/141818561-755e19e3-6938-497d-acb3-7a0b835e74bb.png">
 
 
 ## Wait! There is more:
